@@ -4,7 +4,7 @@
 
 一个为「开发者工具 / AI Dev Agent」场景量身打造的 **本地桌面全栈模板**：
 
-![tauri-starter](https://github.com/linyana/tauri-fullstack-starter/blob/main/public/me.png)
+![tauri-starter](https://raw.githubusercontent.com/linyana/tauri-fullstack-starter/refs/heads/main/public/me.jpg)
 
 - **桌面端**：Tauri 2（Rust）
 - **前端**：React 19 + Vite 8 + TypeScript 5 + Ant Design

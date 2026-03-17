@@ -2,7 +2,7 @@
 
 A **local full‑stack desktop template** tailored for _developer tools / AI Dev Agent_ scenarios:
 
-![tauri-starter](https://github.com/linyana/tauri-fullstack-starter/blob/main/public/me.png)
+![tauri-starter](https://raw.githubusercontent.com/linyana/tauri-fullstack-starter/refs/heads/main/public/me.jpg)
 
 - **Desktop shell**: Tauri 2 (Rust)
 - **Frontend**: React 19 + Vite 8 + TypeScript 5 + Ant Design
