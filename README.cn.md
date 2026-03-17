@@ -53,6 +53,13 @@ bun run prisma:push
 bun run prisma:generate
 ```
 
+### 构建后端二进制文件
+
+```bash
+bun run build:api-binary
+```
+
+
 ### 开发模式（前后端一起跑）
 
 ```bash

@@ -53,6 +53,12 @@ bun run prisma:push
 bun run prisma:generate
 ```
 
+### Build the backend binary
+
+```bash
+bun run build:api-binary
+```
+
 ### Dev mode (frontend + backend)
 
 ```bash
